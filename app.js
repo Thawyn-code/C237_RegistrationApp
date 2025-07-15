@@ -14,11 +14,11 @@ const db = mysql.createConnection({
     // user: 'root',
     // password: '',
     // database: 'C237_usersdb',
-    host: 'host shown on data base info',
+    host: 'hyydtt.h.filess.io',
     port: 3307,
-    user: 'database user shown on database info',
-    password: 'database password shown on database info',
-    database: 'database shown on database info'
+    user: 'C237Database_betweenson',
+    password: 'fee158c5dd0016b98141497afd2efb76efda8082',
+    database: 'C237Database_betweenson'
 });
 
 db.connect((err) => {
